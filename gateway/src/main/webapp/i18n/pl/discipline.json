@@ -1,0 +1,25 @@
+{
+    "armoryApp": {
+        "discipline" : {
+            "home": {
+                "title": "Disciplines",
+                "createLabel": "Dodaj Discipline",
+                "createOrEditLabel": "Dodaj lub edytuj: Discipline"
+            },
+            "created": "Utworzono nowy Discipline z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Discipline z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Discipline z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Discipline {{ id }}?"
+            },
+            "detail": {
+                "title": "Discipline"
+            },
+            "disciplineName": "Discipline Name",
+            "disciplineDescription": "Discipline Description",
+            "disciplinePrice": "Discipline Price",
+            "resources": "Resources",
+            "programs": "Programs"
+        }
+    }
+}

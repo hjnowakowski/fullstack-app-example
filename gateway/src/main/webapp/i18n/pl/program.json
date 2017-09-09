@@ -1,0 +1,26 @@
+{
+    "armoryApp": {
+        "program" : {
+            "home": {
+                "title": "Programs",
+                "createLabel": "Dodaj Program",
+                "createOrEditLabel": "Dodaj lub edytuj: Program"
+            },
+            "created": "Utworzono nowy Program z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Program z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Program z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Program {{ id }}?"
+            },
+            "detail": {
+                "title": "Program"
+            },
+            "programName": "Program Name",
+            "programDescription": "Program Description",
+            "programPrice": "Program Price",
+            "resources": "Resources",
+            "courses": "Courses",
+            "disciplines": "Disciplines"
+        }
+    }
+}

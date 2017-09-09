@@ -1,0 +1,25 @@
+{
+    "armoryApp": {
+        "lesson" : {
+            "home": {
+                "title": "Lessons",
+                "createLabel": "Dodaj Lesson",
+                "createOrEditLabel": "Dodaj lub edytuj: Lesson"
+            },
+            "created": "Utworzono nowy Lesson z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Lesson z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Lesson z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Lesson {{ id }}?"
+            },
+            "detail": {
+                "title": "Lesson"
+            },
+            "lessonTitle": "Lesson Title",
+            "lessonDescription": "Lesson Description",
+            "language": "Language",
+            "resources": "Resources",
+            "courses": "Courses"
+        }
+    }
+}

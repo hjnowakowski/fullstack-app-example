@@ -1,0 +1,27 @@
+{
+    "armoryApp": {
+        "course" : {
+            "home": {
+                "title": "Courses",
+                "createLabel": "Dodaj Course",
+                "createOrEditLabel": "Dodaj lub edytuj: Course"
+            },
+            "created": "Utworzono nowy Course z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Course z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Course z identyfikatorem {{ param }}",
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Course {{ id }}?"
+            },
+            "detail": {
+                "title": "Course"
+            },
+            "courseTitle": "Course Title",
+            "courseDescription": "Course Description",
+            "coursePrice": "Course Price",
+            "courseLevel": "Course Level",
+            "resources": "Resources",
+            "lessons": "Lessons",
+            "programs": "Programs"
+        }
+    }
+}
